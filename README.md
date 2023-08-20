@@ -31,9 +31,7 @@ This is a JAVA APP named Segment Tree 🌳 Visualizer. This app shows the buildi
 
 
 
-### Built With
 
-- [Django](https://www.djangoproject.com/)
 
 [product-screenshot]: RangeMax.png
 [product-screenshot]: RangeMin.png
