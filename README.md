@@ -8,21 +8,22 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<a href="https://github.com/othneildrew/Best-README-Template">
 
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-
-</a>
-
-  <h3 align="center">Placement Portal </h3>
+  <h3 align="center"> Placement Portal </h3>
 
   <p align="center">
     An overall solution for placement drives
     <br />
     <br />
     <br />
+<!--     <a href="http://campusplacement.ga/">View Demo</a> -->
+    ·
+<!--     <a href="https://github.com/prakharepo/campus_placement_app/issues">Report Bug</a> -->
+    ·
+<!--     <a href="https://github.com/prakharepo/campus_placement_app/issues">Request Feature</a> -->
   </p>
 </p>
 
