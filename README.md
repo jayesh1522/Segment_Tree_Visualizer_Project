@@ -8,12 +8,11 @@
   <h3 align="center"> Segment Tree 🌳 Visualizer Project </h3>
 
 
-  <p align="center">
+ <p align="center">
 <!--     An overall solution for placement drives -->
-     <br />
     <br />
     <br />
-    
+    <br />
 <!--     <a href="http://campusplacement.ga/">View Demo</a> -->
     ·
 <!--     <a href="https://github.com/prakharepo/campus_placement_app/issues">Report Bug</a> -->
